@@ -12,10 +12,11 @@ No Notebook com indice 01, é apresentada a análise aprofundada dos dados com o
 
 No Notebook com indice 02, é apresentado o tratamento de dados necessário para preparar o dataset antes do processamento dos modelos de machine learning. Com esta fase concluida é gerado um novo conjunto de dados, com os problemas de variaveis dummys resolvidos e os valores nulos corrigidos.
 
-No Notebook com indice 03, é apresentada a análise de componentes principais dos dados e o modelo não supervisionado K-Means. Estes modelos são aplicados para ser possível detetar os diferentes padrões no conjunto de dados e para entender como os dados se podem agrupar em clusters. 
+No Notebook com indice 03, é apresentada a análise de componentes principais dos dados. 
+
+No Notebook com indice 04, é apresentada algoritmos de seleção de Atributos e a implementação do modelo de Regressão Logistica, com os seus respetivos resultados. 
 
 Os futuros Notebooks a serem desenvolvidos apresentaram os seguintes processos: 
 
-    -> Seleção de Atibutos
     -> Modelos Supervisionados
     -> Metedologias Deep Learning
