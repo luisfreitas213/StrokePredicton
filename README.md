@@ -16,7 +16,7 @@ No Notebook com indice 03, é apresentada a análise de componentes principais d
 
 No Notebook com indice 04, é apresentada algoritmos de seleção de Atributos e a implementação do modelo de Regressão Logistica, com os seus respetivos resultados. 
 
-Os futuros Notebooks a serem desenvolvidos apresentaram os seguintes processos: 
+No Notebook com indice 05, é apresentada algoritmos supervisionados (KNN e Random Forest).
 
-    -> Modelos Supervisionados
-    -> Metedologias Deep Learning
+No Notebook com indice 06, é apresentada arquitetura de redes neuronais (Dense Neuronal Network) 
+
