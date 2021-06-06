@@ -20,3 +20,5 @@ No Notebook com indice 05, é apresentada algoritmos supervisionados (KNN e Rand
 
 No Notebook com indice 06, é apresentada arquitetura de redes neuronais (Dense Neuronal Network) 
 
+No ficheiro Relatorio.pdf é é apresnetado um relatorio do projeto com 10 páginas de conteudo, 12 com capa e indíce. 
+
